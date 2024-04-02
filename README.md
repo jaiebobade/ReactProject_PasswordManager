@@ -1,4 +1,4 @@
-# ReactProject_PasswordManager
+# SecurePass: React Password Manager
 
 # Develop a robust Password Manager application leveraging React, Tailwind, MongoDB & Express.
 
