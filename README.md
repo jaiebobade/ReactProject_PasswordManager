@@ -1,8 +1,12 @@
 # ReactProject_PasswordManager
-Develop a robust Password Manager application leveraging React for the frontend interface, Tailwind CSS for responsive styling, MongoDB for persistent data storage, and Express.js for backend operations. This comprehensive solution empowers users to securely manage their passwords, offering full CRUD (Create, Read, Update, Delete) functionality for seamless management of password entries.
 
+# Develop a robust Password Manager application leveraging React, Tailwind, MongoDB & Express.
 
-
+- Utilizes React for frontend development to create an intuitive user interface.
+- Employs Tailwind CSS for responsive styling, ensuring optimal user experience across devices.
+- Implements MongoDB for secure and efficient persistent data storage.
+- Utilizes Express.js for robust backend operations and API endpoints.
+- Offers comprehensive CRUD (Create, Read, Update, Delete) functionality for seamless management of password entries.
 
 
 
